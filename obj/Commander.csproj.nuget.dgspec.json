@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\REST_API\\Commander\\Commander.csproj": {}
+    "D:\\Github\\REST_API\\Commander.csproj": {}
   },
   "projects": {
-    "D:\\Github\\REST_API\\Commander\\Commander.csproj": {
+    "D:\\Github\\REST_API\\Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\REST_API\\Commander\\Commander.csproj",
+        "projectUniqueName": "D:\\Github\\REST_API\\Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "D:\\Github\\REST_API\\Commander\\Commander.csproj",
+        "projectPath": "D:\\Github\\REST_API\\Commander.csproj",
         "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\REST_API\\Commander\\obj\\",
+        "outputPath": "D:\\Github\\REST_API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config"
